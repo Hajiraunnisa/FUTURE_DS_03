@@ -1,0 +1,99 @@
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║     E-COMMERCE FUNNEL ANALYSIS — CONVERSION INSIGHTS & RECOMMENDATIONS     ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+PREPARED BY  : Growth Analytics Team
+DATASET      : E-Commerce User Behavior — October 2019
+EVENTS ANALYSED : 3,000,000  |  Funnel: View → Cart → Purchase
+
+─────────────────────────────────────────────────────────────────────────────
+ KPI SUMMARY
+─────────────────────────────────────────────────────────────────────────────
+  ▸ Total Views          : 2,904,210
+  ▸ Total Cart Adds      : 44,988
+  ▸ Total Purchases      : 50,802
+  ▸ View → Cart Rate     : 1.55%
+  ▸ Cart → Purchase Rate : 112.92%
+  ▸ View → Purchase Rate : 1.75%
+  ▸ Unique Visitors      : 410,609
+  ▸ Unique Buyers        : 33,482
+  ▸ Visitor → Buyer Rate : 8.15%
+  ▸ Avg Order Value      : $321.19
+
+─────────────────────────────────────────────────────────────────────────────
+ KEY INSIGHTS
+─────────────────────────────────────────────────────────────────────────────
+
+1. MASSIVE DROP-OFF AT VIEW → CART STAGE
+   Only 1.5% of product views result in an add-to-cart.
+   2.9M potential customers drop off before showing purchase intent.
+   This is the largest and most impactful leakage point in the funnel.
+
+2. CART ABANDONMENT IS SIGNIFICANT
+   Of users who add to cart, only 112.9% complete a purchase.
+   -5814 carts are abandoned — a clear opportunity for recovery
+   campaigns (cart abandonment emails, push notifications, retargeting).
+
+3. OVERALL CONVERSION RATE IS LOW (1.75%)
+   Industry benchmark for e-commerce is 2–4%. The current rate signals
+   friction in the buying experience — trust signals, checkout UX, or pricing.
+
+4. ELECTRONICS CATEGORIES DOMINATE VIEWS BUT VARY IN CONVERSION
+   Smartphones, computers, and appliances attract the most views. However,
+   smaller categories like accessories often convert at a higher rate —
+   lower price points reduce purchase hesitation.
+
+5. PEAK BUYING HOURS
+   Conversion rates peak in the evening hours (after 6PM local time).
+   Ad spend and promotional pushes should be weighted toward peak hours.
+
+6. WEEKDAY PATTERNS MATTER
+   Certain weekdays show meaningfully higher conversion rates. Scheduling
+   promotional emails and campaigns on high-conversion days improves ROI.
+
+7. PURCHASED PRICES ARE LOWER THAN VIEWED PRICES
+   Customers browse expensive items (Avg viewed: $297)
+   but purchase lower-priced ones (Avg purchase: $321).
+   This suggests price sensitivity is a key conversion barrier.
+
+─────────────────────────────────────────────────────────────────────────────
+ ACTIONABLE RECOMMENDATIONS
+─────────────────────────────────────────────────────────────────────────────
+
+  ✔ CART ABANDONMENT RECOVERY
+    Implement automated email sequences 1hr, 24hr, and 72hr after cart
+    abandonment. Include discount or free shipping incentive.
+    Industry average recovery rate: 5–10% of abandoned carts.
+
+  ✔ REDUCE VIEW→CART FRICTION
+    Add "Quick Add to Cart" on product listing pages. Reduce clicks needed
+    to add an item. Highlight limited stock / urgency signals.
+
+  ✔ TRUST & SOCIAL PROOF
+    Add reviews, ratings, and "X people bought this today" signals on product
+    pages. Trust reduces hesitation, especially for high-ticket items.
+
+  ✔ PRICE-ANCHORING FOR HIGH-VALUE ITEMS
+    For expensive electronics, offer EMI / pay-later options prominently.
+    Users browse expensive items but buy cheaper ones — financing unlocks this.
+
+  ✔ TIME-BASED PROMOTIONS
+    Run flash sales during peak conversion hours (evening) and high-conversion
+    weekdays. Push notifications and email campaigns timed to these windows.
+
+  ✔ CATEGORY-SPECIFIC RETARGETING
+    Retarget users who viewed but didn't cart with category-specific ads.
+    Personalised retargeting outperforms generic ads by 3–5x.
+
+  ✔ CHECKOUT OPTIMISATION
+    Reduce checkout steps to 1–2 pages. Add guest checkout, multiple payment
+    methods, and visible security badges to lift cart→purchase rate.
+
+─────────────────────────────────────────────────────────────────────────────
+ DASHBOARD FILES
+─────────────────────────────────────────────────────────────────────────────
+  Page 1: funnel_dashboard_page1.png  (KPIs, funnel, drop-off, trends, prices)
+  Page 2: funnel_dashboard_page2.png  (Category, brands, hourly, weekday)
+
+════════════════════════════════════════════════════════════════════════════════
